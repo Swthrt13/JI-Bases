@@ -1,2 +1,0 @@
-# JI-Bases
-for work
